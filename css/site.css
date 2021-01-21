@@ -1,0 +1,25 @@
+p{
+  font-style: normal;
+  font-family: "Gill Sans Extrabold", system-ui;
+}
+
+body{
+  background-color: #F5895B;
+}
+
+header{
+  color: #cee6d7;
+  margin-left: 20px;
+}
+
+#content {
+  background-color: powderblue;
+  padding: 10px;
+  color: #361E14;
+  margin: auto;
+  width: 50%;
+  border: 5px solid green;
+}
+#screenshots {
+  text-align: center;
+}
